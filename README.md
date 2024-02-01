@@ -1,5 +1,9 @@
 # Directory Monitor Script
 
+<p >
+<img src="https://media.tenor.com/8EszoDmZaa8AAAAi/superman-flying.gif">
+</>
+
 ## Overview
 
 This Python script monitors a specified directory or you full system directory for new and deleted files or folders and sends notifications using the `plyer` library. Additionally, it copies the file path to the clipboard for easy access.
